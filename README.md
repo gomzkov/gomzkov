@@ -21,7 +21,8 @@ Currently building backend services at Lemonade.
 
 - [Building a Fully Offline AI App](https://gomzkov.medium.com/how-i-built-a-fully-offline-ai-app-for-private-journaling-25911b448671)
 - [Building a CLI App with Node.js](https://gomzkov.medium.com/building-a-cli-with-node-js-in-2024-c278802a3ef5)
+- [4 Habits That Made Me a Better Developer](https://gomzkov.medium.com/4-habits-that-made-me-a-better-developer-39b647903534)
 
 ## Find Me
 
-[Website](https://gomzkov.com) · [LinkedIn](https://www.linkedin.com/in/gomzkov) · [Medium](https://gomzkov.medium.com) · [X](https://x.com/gomzkov)
+[Website](https://gomzkov.com) · [LinkedIn](https://www.linkedin.com/in/gomzkov) · [Medium](https://gomzkov.medium.com) · [X](https://x.com/gomzkov) · [Email](mailto:hello@gomzkov.com)
