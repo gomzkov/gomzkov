@@ -2,8 +2,6 @@
 
 Backend developer building cloud systems and developer tools.
 
-Currently building backend services at Lemonade.
-
 ## Selected Work
 
 - [vibe-shield](https://github.com/gomzkov/vibe-shield): Lightweight security checks for AI-generated code
