@@ -1,9 +1,5 @@
 # Evgeni Gomziakov
 
-Backend developer building cloud systems and developer tools.
-
-## Selected Work
-
 - [vibe-shield](https://github.com/gomzkov/vibe-shield): Lightweight security checks for AI-generated code
 - [what2take](https://what2take.com): AI-powered packing lists with live weather data
 - [my-node-cli](https://github.com/gomzkov/my-node-cli): Practical examples for building Node.js CLIs
