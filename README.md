@@ -6,9 +6,10 @@
 
 ## Writing
 
-- [Building a Fully Offline AI App](https://gomzkov.medium.com/how-i-built-a-fully-offline-ai-app-for-private-journaling-25911b448671)
-- [Building a CLI App with Node.js](https://gomzkov.medium.com/building-a-cli-with-node-js-in-2024-c278802a3ef5)
-- [Habits for Better Coding](https://gomzkov.medium.com/4-habits-that-made-me-a-better-developer-39b647903534)
+- [Reduce Wasted Tokens](https://gomzkov.medium.com/reduce-wasted-tokens-d36eb5b46442) - 2026
+- [Building a Fully Offline AI App](https://gomzkov.medium.com/how-i-built-a-fully-offline-ai-app-for-private-journaling-25911b448671) - 2025
+- [Building a CLI App with Node.js](https://gomzkov.medium.com/building-a-cli-with-node-js-in-2024-c278802a3ef5) - 2024
+- [Habits for Better Coding](https://gomzkov.medium.com/4-habits-that-made-me-a-better-developer-39b647903534) - 2022
 
 ## Elsewhere
 
