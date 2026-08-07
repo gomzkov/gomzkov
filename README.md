@@ -1,13 +1,25 @@
 # Evgeni Gomziakov
 
-## Projects
+Developer focused on practical AI adoption, agent systems, and useful products.
+
+## Public projects
 
 - [worth-knowing](https://github.com/gomzkov/worth-knowing): Agent skill for learning a domain while you work in it
 - [scout](https://github.com/gomzkov/scout): Agent skill that surfaces questions you didn’t know to ask
 - [plak](https://github.com/gomzkov/plak): Token profiler for AI coding agents
 - [vibe-shield](https://github.com/gomzkov/vibe-shield): Lightweight security checks for AI-generated code
 - [what2take](https://what2take.com): AI packing lists based on your trip and live weather
+- [Prepare to Ski](https://prepare-to-ski.netlify.app): Follow-along ski workout timer designed for TVs, phones, and laptops
 - [my-node-cli](https://github.com/gomzkov/my-node-cli): Practical examples for building Node.js CLIs
+
+## Private work
+
+- **AI consulting:** Helping engineering teams use AI in their day-to-day work
+- **Compass:** A private life data agentic platform
+- **KeepSweep:** Swipe through photos and clean up your library
+- **Wedding Prep:** Shared guest lists for the family
+- **Pass & Play:** Party games for one phone
+- **Page Destroyer:** Destroy any webpage with 13 ridiculous tools
 
 ## Writing
 
