@@ -4,6 +4,7 @@ Developer focused on practical AI adoption, agent systems, and useful products.
 
 ## Public projects
 
+- [agent-context-test](https://github.com/gomzkov/agent-context-test): Checks whether your coding agent can find the instructions and skills it needs for a task
 - [worth-knowing](https://github.com/gomzkov/worth-knowing): Agent skill for learning a domain while you work in it
 - [scout](https://github.com/gomzkov/scout): Agent skill that surfaces questions you didn’t know to ask
 - [plak](https://github.com/gomzkov/plak): Token profiler for AI coding agents
